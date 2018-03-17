@@ -1,1 +1,3 @@
 Here is some text tha I'm adding into the demo.txt file
+
+Second time editing this file, this time from local editor (VS Code)
